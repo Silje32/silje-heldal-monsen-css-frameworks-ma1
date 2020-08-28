@@ -1,0 +1,7 @@
+h1.header {
+    font-family: "Open Sans Regular";
+    font-size: 25px;
+    text-align: center;
+    padding: 25px;
+    color: var(--heading-colour);
+}

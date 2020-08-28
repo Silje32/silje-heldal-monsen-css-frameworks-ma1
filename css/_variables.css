@@ -1,7 +1,7 @@
 :root {
     --background-colour: #E2E2E2;
     --primary-colour: #C32C72;
-    --primary-colour-hover: #f54b8d;
     --nav-colour: #F4F3EE;
-    --background-dark: rgba(0, 0, 0, 0.5);
+    --colour-home-block: #FFFFFF;
+    --heading-colour: #6A6A6A;
 }

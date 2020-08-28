@@ -7,7 +7,7 @@
     background-color: var(--nav-colour);
 }
 
-.navbar-light .navbar-nav .nav-link {
+.navbar-light .navbar-nav .nav-link  {
     color: #C32C72;
     font-size: 15px;
 }

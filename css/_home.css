@@ -1,0 +1,25 @@
+.home-block_6 {
+    background-color: var(--primary-colour);
+    border: 5px solid var(--colour-home-block);
+    border-radius: 5%;
+    margin: 7px;
+}
+
+.home-block_1 {
+    background-color: var(--nav-colour);
+    border-radius: 5%;
+    margin: 7px;
+} 
+
+.home-block_2 {
+    background-color: var(--colour-home-block);
+    border: 5px solid var(--primary-colour);
+    border-radius: 5%;
+    margin: 7px;
+}
+
+@media (min-width: 800px) {
+    .home-block_6 .home-block_1 .home-block_2 {
+        width: 50%;
+    }
+}
