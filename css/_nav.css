@@ -1,0 +1,17 @@
+.navbar-brand {
+    font-family: "Archivo Narrow Regular", sans-serif;
+    font-size: 32px;
+}
+
+.navbar {
+    background-color: var(--nav-colour);
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #C32C72;
+    font-size: 15px;
+}
+
+.navbar-collapse {
+    z-index: 1;
+}

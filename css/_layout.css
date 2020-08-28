@@ -1,0 +1,28 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    font-family: "Archivo Narrow Regular", sans-serif;
+    background-color: var(--background-colour);
+    color: #6A6A6A;
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    font-family: "Archivo Narrow Regular", sans-serif;
+    display: flex;
+    flex-shrink: 0;
+    justify-content: space-between;
+    background-color: var(--nav-colour);
+    margin-top: 2rem;
+    font-size: 0.8em;
+    color: #8D8D8D;
+    padding: 0.5em;
+}
+
+.wrapper {
+    flex: 1 0 auto;
+}
